@@ -1,0 +1,6 @@
+# zig
+.zig-cache
+zig-out
+
+.git_credentials
+github_init.sh

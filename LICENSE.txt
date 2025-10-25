@@ -1,0 +1,40 @@
+LICENSE — License of the Free Union (LSU) 1.0
+
+Copyright (c) [ -> 2025-2025 <-] [ -> Ezer <-]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Project"), to deal in the Project without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Project, and to permit persons to whom the Project is furnished to do so, subject to the following conditions.
+1. Preservation of Notices
+
+All copies or substantial portions of the Project must retain the above copyright notice, this license text, and any other original copyright or attribution notices included with the Project.
+2. Source Disclosure for Derivative Works
+
+If you distribute a Derivative Work of the Project in source code form or in object or executable form, you must do one of the following:
+
+    distribute the complete corresponding source code of the Derivative Work under this same License (License of the Free Union — LSU 1.0), or
+
+    include with the distribution a clear and accessible written offer that describes where and how the complete corresponding source code can be obtained on reasonable terms not more restrictive than this License.
+
+For the purposes of this section, "Derivative Work" means any work that is based upon the Project or portions thereof, including modifications, translations, or adaptations.
+3. Compatibility with Permissive Licenses
+
+Portions of the Project that are explicitly marked and licensed under permissive licenses such as the MIT License may be redistributed under those permissive terms provided that original notices required by those permissive licenses are preserved. The obligations of this License apply to the Project as a whole and to Derivative Works except where code is explicitly and separately licensed under a permissive license.
+4. Patent License
+
+Each contributor to the Project hereby grants to recipients a perpetual, worldwide, non-exclusive, royalty-free license under the contributor's essential patent claims to make, have made, use, sell, offer for sale, import, and otherwise exploit the Project. This patent license terminates automatically for any person that initiates patent litigation asserting that the Project or a contribution to the Project infringes a patent.
+5. Trademarks
+
+This License does not grant any rights to use the trade names, trademarks, service marks, or product names of the licensors, except as required for reasonable and customary use in describing the origin of the Project and reproducing the required notices.
+6. Disclaimer of Warranty
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE PROJECT REMAINS WITH YOU.
+7. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+8. Termination
+
+Any license rights granted under this License will terminate automatically if you fail to comply with these terms and fail to cure such breach within a reasonable time after written notice. Terminated rights may be reinstated at the discretion of the licensors upon cure and written agreement.
+9. Miscellaneous
+
+If any provision of this License is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect. This License does not require payment of any fees, nor the performance of any formal registration, as a condition of distributing the Project.
+
+SPDX-License-Identifier: LSU-1.0
