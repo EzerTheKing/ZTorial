@@ -1,4 +1,4 @@
-![Photo](images/Zogo.svg.png)
+![Photo](images/drawing.svg)
 
 # 📚 Educational project (Maybe) «[Zig Documentation]»
 (Yes, I'm shocked myself that I'm doing this, but sometimes there's just nothing else to do, well, you know how it is.)
