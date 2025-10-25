@@ -69,6 +69,9 @@ Photo:
 - Pointers
 - Function
 - Test
+- Variables
+- While
+- Coming soon...
 
 ---
 
