@@ -1,4 +1,4 @@
-LICENSE — License of the Free Union (LSU) 1.0
+LICENSE — License of the Free Union (LFU) 1.0
 
 Copyright (c) [ -> 2025-2025 <-] [ -> Ezer <-]
 
@@ -37,4 +37,4 @@ Any license rights granted under this License will terminate automatically if yo
 
 If any provision of this License is held to be invalid or unenforceable, the remaining provisions will remain in full force and effect. This License does not require payment of any fees, nor the performance of any formal registration, as a condition of distributing the Project.
 
-SPDX-License-Identifier: LSU-1.0
+SPDX-License-Identifier: LFU-1.0
