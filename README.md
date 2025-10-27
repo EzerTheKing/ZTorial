@@ -50,7 +50,7 @@ Sorry user Windows, i love Linux.:) (͡° ͜ʖ ͡°)
 Linux:
 
 ```bash
-Arch/Artix: sudo pacman -S zig (I RECOMEND) -> {zed(minimal code editor) hyperland(Linux)}
+Arch/Artix: sudo pacman -S zig (I RECOMEND) -> {lapce(minimal code editor) hyperland(Linux)}
 
 NixOS: environment.systemPackages = with pkgs; [
     zig
