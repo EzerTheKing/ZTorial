@@ -1,6 +1,6 @@
 ![Photo](images/drawing.svg)
 
-# 📚 Educational project (Maybe) «[Zig Documentation]»
+# Educational project (Maybe) «[Zig Documentation]»
 (Yes, I'm shocked myself that I'm doing this, but sometimes there's just nothing else to do, well, you know how it is.)
 
 In short, let's figure out what we're going to do here today: why, for what purpose, and how.
@@ -12,7 +12,7 @@ At the end, interesting information awaits you, or not really, depending on whet
 
 ---
 
-## Installing Packages. 👋≧◉ᴥ◉≦
+## Installing Packages. ≧◉ᴥ◉≦
 * [Zig Download](https://ziglang.org/download/) – zig download.!
 
 In short, first let's install everything, and to do this we need to take the following steps:
@@ -62,7 +62,7 @@ Photo:
 
 ---
 
-## 🔖 Content
+## Content
 - This is the base.!
 - Comments
 - Values
